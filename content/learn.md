@@ -68,6 +68,14 @@ We highly recommend pairing R4DS with the [RStudio cheatsheets](https://www.rstu
   vectorized code, scoping, documenting code, profiling and debugging, building modular 
   code, and version control-all in contexts of specific applied statistical analyses. 
   
+* [FE8828 Programming Web Applications in Finance]
+  (http://www.nbs.ntu.edu.sg/Programmes/Graduate/MScFE/Documents/Website%20MFE%20Course%20Details_2017.pdf)
+  Nanyang Technological University; 
+  Yang Ye. As a part of Master of Financial Engineering program, this course serves an
+  intermediate-to-advanced programming course for data analytics, statistics and
+  quantitive finance. We teach the topics of R Markdown, Shiny, and
+  Tidyverse packages (dplyr, tidyr, ggplot2, lubridate, modelr, bloom).
+
 ### 2016
 
 * [Stat545](http://stat545.com); UBC; Jenny Bryan. Data wrangling, 
